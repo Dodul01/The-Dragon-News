@@ -2,7 +2,7 @@
 
 Dragon News is a dynamic news website developed using React, React Router DOM, Firebase Authentication, and Context API. This project serves as a comprehensive exercise for building a modern web application with user authentication and seamless navigation. 
 
-##Features
+## Features
 <ul>
   <li>Auth: User can not see news details without login i have implement private route.</li>
   <li>Categories(coming soon): If user in login then they can see news by categories.</li>
